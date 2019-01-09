@@ -2,6 +2,8 @@
 
 Sistema de eventos
 
+[![Build Status](https://travis-ci.org/marcusgabrields/eventex.svg?branch=master)](https://travis-ci.org/marcusgabrields/eventex)
+
 ## Como desenvolver?
 
 1. Clone o repositório
